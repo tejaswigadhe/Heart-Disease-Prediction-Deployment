@@ -10,13 +10,10 @@ As being a Data and ML enthusiast I have tried many different projects related t
 
 - To View the Deployed Application, click on the link given below : 
   **Heart Disease Predictor Web App -** *[https://heart-disease-predictor-flask.herokuapp.com/](https://heart-disease-predictor-flask.herokuapp.com/)*
-
-- To get the Code for Exploratory data analysis/visualisations, different algorithms used and the model evaluation, click on the link mentioned below :
-  **Link of jupyter notebook -** *[https://github.com/asthasharma98/Data-Science/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb](https://github.com/asthasharma98/Data-Science/blob/main/Heart%20Disease%20Prediction/heart_disease_prediction.ipynb)*
   
 **A Demo of the Web App :**
 
-![Heart_disease](https://github.com/asthasharma98/Heart-Disease-Prediction-Deployment/blob/master/Readme_resources/heart_disease.gif)
+![Heart_disease](https://github.com/tejaswigadhe/Heart-Disease-Prediction-Deployment/blob/master/Readme_resources/heart_disease.gif)
  
  
  ### Technical Aspect
@@ -44,7 +41,7 @@ pip install -r requirements.txt
 *To clone the repository*
 
 ```
-git clone https://github.com/asthasharma98/Heart-Disease-Prediction-Deployment.git
+git clone https://github.com/tejaswigadhe/Heart-Disease-Prediction-Deployment.git
 ```
 
 ### Run 
